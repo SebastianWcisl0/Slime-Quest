@@ -1,3 +1,4 @@
 This is a simple game program I made for an introductory class at SFSU.
-Super small and simple, but it was very fun. Enjoy! 
-(hint: don't pick up a weapon, you'll one shot slimes after one combat!)
+Super small and simple, but it was very fun.
+All you need a java ide and to run game driver.
+Enjoy! 

@@ -24,7 +24,7 @@ public class Map {
 
         switch (Jim.currentlocation) {
             case 'a':
-                System.out.println("i LOV MY gf XD");
+                System.out.println("you've examined!");
                 break;
             case 'b':
                 System.out.println("This is a small 3x4 room with only one door, a killed slime and a health potion.");
